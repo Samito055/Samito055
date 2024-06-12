@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Samuel%cifuentes&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Samuel&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h2 align="left">Hi 👋! My name is Samuel and I'm a BackEnd Developer Freelancer. Living in Medellin, Colombia.</h2>
 
