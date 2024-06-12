@@ -49,9 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Samito055/Samito055/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="center">I´m a BackEnd Developer that works with Java, Spring, MySQl, Python and Tensorflow</p>
 
