@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Samuel%Cifuentes🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h2 align="left">Hi 👋! My name is Samuel and I'm a BackEnd Developer Freelancer. Living in Medellin, Colombia.</h2>
 
@@ -48,15 +48,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Samito055/Samito055/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sam_cifutoro" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
